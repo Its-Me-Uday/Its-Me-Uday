@@ -4,10 +4,8 @@
 
 <hr>
     <div align = "left">
-        <img src = "\cxM.gif" width = "300px" height = "300px" alt="Code">
-   
-    <div align = "right">
-        <img src = "\Ye3z.gif" width = "300px" height = "300px" alt="Code">
+        <img src = "\cxM.gif" width = "300px" height = "300px" alt="Left Image">
+        <img src = "\Ye3z.gif" width = "300px" height = "300px" alt="Right Image">
     </div>
 <hr>
 
