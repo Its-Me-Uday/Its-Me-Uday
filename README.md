@@ -3,8 +3,11 @@
 </h1>
 
 <hr>
-    <div align = "center">
-        <img src = "https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW" width = "600px" height = "300px" alt="Code">
+    <div align = "left">
+        <img src = "https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW" width = "300px" height = "300px" alt="Code">
+    </div>
+    <div align = "right">
+        <img src = "https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW" width = "300px" height = "300px" alt="Code">
     </div>
 <hr>
 
