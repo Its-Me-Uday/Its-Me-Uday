@@ -4,7 +4,7 @@
 
 <hr>
     <div align = "center">
-        <img src = "/Ye3z.gif" width = "600px" height = "300px" alt="Code">
+        <img src = "![Ye3z](https://github.com/user-attachments/assets/5d50e548-1aca-4f77-b5ad-0c92e4c43c22)" width = "600px" height = "300px" alt="Code">
     </div>
 <hr>
 
