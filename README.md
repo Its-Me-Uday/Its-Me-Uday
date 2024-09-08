@@ -4,7 +4,7 @@
 
 <hr>
     <div align = "center">
-        <img src = "![Ye3z](https://github.com/user-attachments/assets/5d50e548-1aca-4f77-b5ad-0c92e4c43c22)" width = "600px" height = "300px" alt="Code">
+        <img src = "https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW" width = "600px" height = "300px" alt="Code">
     </div>
 <hr>
 
@@ -15,7 +15,7 @@
     <ul type = "none">
         <li>😎 I'm a Third year student pursuing <b>Bachelor of Engineering</b> in <b>Information Technology</b>.</li>
         <li>🌱 I love to apply my technical skills to develop innovative solutions for real-world problems.</li>
-        <li>📫 Mail me at <i><b>prakashdivya.dpj@gmail.com</b></i></li>
+        <li>📫 Mail me at <i><b>udaypratapaps37@gmail.com</b></i></li>
     </ul>
 </div>
 <br>
