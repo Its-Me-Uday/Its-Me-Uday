@@ -4,10 +4,10 @@
 
 <hr>
     <div align = "left">
-        <img src = "https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW" width = "300px" height = "300px" alt="Code">
+        <img src = "\cxM.gif" width = "300px" height = "300px" alt="Code">
     </div>
     <div align = "right">
-        <img src = "https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW" width = "300px" height = "300px" alt="Code">
+        <img src = "\Ye3z.gif" width = "300px" height = "300px" alt="Code">
     </div>
 <hr>
 
