@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Divya+Prakash+Jha.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+UDAY+PRATAP+SINGH.;" />
 </h1>
 
 <hr>
     <div align = "center">
-        <img src = "/code.gif" width = "600px" height = "300px" alt="Code">
+        <img src = "Ye3z.gif" width = "600px" height = "300px" alt="Code">
     </div>
 <hr>
 
