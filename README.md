@@ -60,7 +60,6 @@
 
 <br>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Its-Me-Uday/Its-Me-Uday/output/github-contribution-grid-snake.svg" />
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;"> 
 </div>
 <br>
