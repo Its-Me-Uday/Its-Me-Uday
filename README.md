@@ -14,7 +14,7 @@
 <div align = "center">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=divyaprakashjha&label=Profile%20views&color=0e75b6&style=flat" alt="divyaprakashjha" /> </p>
     <ul type = "none">
-        <li>😎 I'm a Third year student pursuing <b>Bachelor of Engineering</b> in <b>Information Technology</b>.</li>
+        <li>😎 I'm a Final year student pursuing <b>Bachelor of Engineering</b> in <b>Information Technology</b>.</li>
         <li>🌱 I love to apply my technical skills to develop innovative solutions for real-world problems.</li>
         <li>📫 Mail me at <i><b>udaypratapaps37@gmail.com</b></i></li>
     </ul>
